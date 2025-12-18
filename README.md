@@ -1,5 +1,11 @@
+# This is a backup GitHub account
+I mainly use my GitHub account connect to my university email, which will be disabled when i graduate, hence i created this account and copied all the repositories.<br>
+Original GitHub account: [StefanosPanteli](https://github.com/StefanosPanteli "Original GitHub")
+
 # 💫 About Me:
-* This is a backup github account.<br><br>- 🔭 I’m currently working on my thesis on multi-AI-agent collaboration<br>- ⚡ Fun fact: I like traveling, concerts, food and beer.<br>- 📍 Cypriot in Cyprus
+- 🔭 I’m currently working on my thesis on multi-AI-agent collaboration
+- ⚡ Fun fact: I like traveling, concerts, food and beer.
+- 📍 Cypriot in Cyprus
 
 
 ## 🌐 Socials:
