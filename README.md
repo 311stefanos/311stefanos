@@ -10,7 +10,7 @@ Original GitHub account: [StefanosPanteli](https://github.com/StefanosPanteli "O
 
 ## 🌐 Socials:
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:stefanos.panteli3112003@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Stefanos%20Panteli-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stefanos-panteli/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stefanos-panteli/)
 
 
 # 💻 Tech Stack:
