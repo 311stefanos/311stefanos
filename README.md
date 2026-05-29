@@ -21,3 +21,5 @@ Original GitHub account: [StefanosPanteli](https://github.com/StefanosPanteli "O
 `EPL342`: DataBase course. Electric Vehicle Funding Platform built with SQL and PHP.<br>
 `EPL343`: Software Engineering course. Inventory Tracker for Bars built with Flask (Python), SQLite, HTML (Jinja), CSS, JavaScript.<br>
 `EPL499`: Natural Language Processing course. Sentiment Analysis using a logistic regression model.<br>
+`EPL445`: Digital Image Processing course. Phase recognition for cataract operation videos using various architectures.<br>
+`EPL448`: Data Mining course. Stroke prediction using a full ML pipeline starting with EDA.<br>
