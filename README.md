@@ -3,9 +3,10 @@ I mainly use my GitHub account connect to my university email, which will be dis
 Original GitHub account: [StefanosPanteli](https://github.com/StefanosPanteli "Original GitHub")
 
 # 💫 About Me:
-- 🔭 I’m currently working on my thesis on multi-AI-agent collaboration
-- ⚡ Fun fact: I like traveling, concerts, food and beer.
-- 📍 Cypriot in Cyprus
+- 🎓 BSc in Computer Science form the University of Cyprus, currently preparing for a Master's in AI.
+- 🔭 I’m currently working on personal projects regarding stellar object detection and deep learning with audio input.
+- ⚡ Fun fact: I like traveling, concerts, food, cocktails, and beer.
+- 📍 Cypriot in Cyprus.
 
 
 ## 🌐 Socials:
