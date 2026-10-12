@@ -6,7 +6,7 @@ Original GitHub account: [StefanosPanteli](https://github.com/StefanosPanteli "O
 - 🎓 BSc in Computer Science form the University of Cyprus.
 - 🔭 I’m currently pursuing a Master of Engineering: Computer Science with option AI.
 - ⚡ Fun fact: I like traveling, concerts, food, cocktails, and beer.
-- 📍 Cypriot in Cyprus.
+- 📍 Cypriot in Leuven.
 
 
 ## 🌐 Socials:
