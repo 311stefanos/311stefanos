@@ -3,14 +3,14 @@ I mainly use my GitHub account connect to my university email, which will be dis
 Original GitHub account: [StefanosPanteli](https://github.com/StefanosPanteli "Original GitHub")
 
 # 💫 About Me:
-- 🎓 BSc in Computer Science form the University of Cyprus, currently preparing for a Master's in AI.
-- 🔭 I’m currently working on personal projects regarding stellar object detection and deep learning with audio input.
+- 🎓 BSc in Computer Science form the University of Cyprus.
+- 🔭 I’m currently pursuing a Master of Engineering: Computer Science with option AI.
 - ⚡ Fun fact: I like traveling, concerts, food, cocktails, and beer.
 - 📍 Cypriot in Cyprus.
 
 
 ## 🌐 Socials:
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:stefanos.panteli3112003@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:stefanos.panteli31@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stefanos-panteli/)
 
 
